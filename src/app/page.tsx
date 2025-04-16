@@ -187,14 +187,14 @@ export default function Home() {
               </div>
             </div>
             <div className="mt-10 lg:mt-0 flex justify-center">
-              <div className="rounded-lg shadow-xl bg-white p-4 transform rotate-2">
-                <div className="rounded overflow-hidden">
+              <div className="rounded-lg shadow-xl bg-white p-2 transform rotate-1 max-w-[220px]">
+                <div className="rounded overflow-hidden w-full h-[300px] flex items-center justify-center">
                   <Image
-                    src="/xiaohongshu-mockup.png"
+                    src="/images/main.jpg"
                     alt="小红书应用界面"
-                    width={350}
-                    height={600}
-                    className="w-auto h-auto"
+                    width={200}
+                    height={300}
+                    className="w-auto h-auto max-w-full max-h-full object-contain"
                   />
                 </div>
               </div>

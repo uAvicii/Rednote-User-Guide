@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import ContentTips from "@/components/content-creation/ContentTips";
 import PopularCategories from "@/components/content-creation/PopularCategories";

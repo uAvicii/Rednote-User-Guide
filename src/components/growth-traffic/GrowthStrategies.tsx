@@ -236,7 +236,7 @@ export default function GrowthStrategies() {
               </h3>
               <div className="mt-2 text-sm text-yellow-700 dark:text-yellow-200">
                 <p>
-                  作为美国创作者，在小红书上增长粉丝时，可以强调你的\"美国视角\"作为特色，
+                  作为美国创作者，在小红书上增长粉丝时，可以强调你的&ldquo;美国视角&rdquo;作为特色，
                   满足中国用户对美国文化和生活的好奇心。语言上，尝试使用中英文混合的方式，
                   即使中文不流利，这种独特性反而会增加亲和力和辨识度。
                 </p>

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function GettingStarted() {
@@ -270,7 +269,7 @@ export default function GettingStarted() {
 
           <div className="mt-16">
             <div className="space-y-16">
-              {steps.map((step, stepIdx) => (
+              {steps.map((step) => (
                 <div
                   key={step.id}
                   className="flex flex-col lg:grid lg:grid-cols-12 lg:gap-8"

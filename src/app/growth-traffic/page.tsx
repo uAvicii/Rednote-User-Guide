@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import AlgorithmInsights from "@/components/growth-traffic/AlgorithmInsights";
 import GrowthStrategies from "@/components/growth-traffic/GrowthStrategies";

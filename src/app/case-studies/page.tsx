@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function CaseStudies() {
@@ -237,7 +236,7 @@ export default function CaseStudies() {
                 </div>
                 <blockquote className="mt-3">
                   <p className="text-base italic text-gray-600 dark:text-gray-400">
-                    "{expert.quote}"
+                    &ldquo;{expert.quote}&rdquo;
                   </p>
                 </blockquote>
               </div>

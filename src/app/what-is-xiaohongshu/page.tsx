@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function WhatIsXiaohongshu() {
@@ -26,7 +25,7 @@ export default function WhatIsXiaohongshu() {
               小红书简介
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
-              小红书（英文名：RED 或 Xiaohongshu，简称 XHS）是中国领先的生活方式分享社区和电商平台，创立于2013年。平台以"标记我的生活"为口号，鼓励用户分享真实的生活体验、购物心得和旅游经历等。
+              小红书（英文名：RED 或 Xiaohongshu，简称 XHS）是中国领先的生活方式分享社区和电商平台，创立于2013年。平台以&ldquo;标记我的生活&rdquo;为口号，鼓励用户分享真实的生活体验、购物心得和旅游经历等。
             </p>
             <p className="text-gray-600 dark:text-gray-300">
               小红书最初是作为海外购物攻略分享社区起家，逐渐发展成为涵盖美妆、时尚、健康、旅游、美食、家居等多领域的综合性生活内容平台。截至最新数据，小红书拥有超过5亿注册用户，月活跃用户超过2亿，其中超过70%是90后和00后年轻用户。
@@ -37,7 +36,7 @@ export default function WhatIsXiaohongshu() {
                 小红书名称含义
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mt-2">
-                "红书"原意是指毛泽东语录，寓意为指导人们生活的书籍。小红书创始人希望打造一个内容能够指导用户消费决策的平台，用户之间互相分享购物和生活经验，因此取名"小红书"。
+                &ldquo;红书&rdquo;原意是指毛泽东语录，寓意为指导人们生活的书籍。小红书创始人希望打造一个内容能够指导用户消费决策的平台，用户之间互相分享购物和生活经验，因此取名&ldquo;小红书&rdquo;。
               </p>
             </div>
 
@@ -96,7 +95,7 @@ export default function WhatIsXiaohongshu() {
                       />
                     </svg>
                     <span>
-                      <strong>社交+电商：</strong>整合社交分享与电商功能，实现"种草"到购买的闭环
+                      <strong>社交+电商：</strong>整合社交分享与电商功能，实现&ldquo;种草&rdquo;到购买的闭环
                     </span>
                   </li>
                   <li className="flex items-start">
